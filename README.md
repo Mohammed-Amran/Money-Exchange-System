@@ -1,2 +1,2 @@
 # Money-Exchange-System
-A cool system the Dispenses, Coalesces, and convert's money
+A cool system that Dispenses, Coalesces, and convert's money
